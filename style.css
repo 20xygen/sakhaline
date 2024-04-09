@@ -1,0 +1,31 @@
+*{
+	background: #C6B292;
+	font-family: "Philosopher";
+	color: white;
+}
+
+.rec{
+    display: block;
+    margin-top: -35%;
+    margin-left: auto;
+    margin-right: 20rem;
+ 	margin-bottom: 10;
+}
+
+.mainImg{
+	display: block;
+    margin-top: 5%;
+    margin-left: 20rem;
+    margin-right: auto;
+ 	margin-bottom: 15%;
+	width: 700px;
+}
+
+.Img2{
+	display: block;
+    margin-left: 20rem;
+    margin-right: auto;
+ 	margin-bottom: 30;
+	width: 700px;
+	font-size: 20px;
+}
